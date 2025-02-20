@@ -1,5 +1,10 @@
 # NYU.OpenData
-Course exercises and mid-term project for the machine learning class.
+Author: Tong Shen
+
+### Repository Overview
+This repository documents my responses to the assignments for the STAT 5255 class (Introduction to Data Science). Among the nine main assignments, the first two focused on GitHub setup and thus do not contain recorded responses. The final assignment is the mid-term team project, in which my teammate answered the first two questions (cleaning and describing the data), while I answered the last two (exloring the data).
+
+### Prompts for the nine assignments
 
 1. Pick up Git basics and set up an account at GitHub if you don't have
    one. Please practice the tips on Git in the notes. Make sure you have at
