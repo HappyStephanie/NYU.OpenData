@@ -2,7 +2,19 @@
 Author: Tong Shen
 
 ### Repository Overview
-This repository documents my responses to the assignments for the STAT 5255 class (Introduction to Data Science). Among the eight main assignments, the first two focused on GitHub setup and thus do not contain recorded responses. The final assignment is the mid-term team project, in which my teammate answered the first two questions (cleaning and describing the data), while I answered the last two (exloring the data).
+This repository documents my responses to the assignments for the STAT 5255 class (Introduction to Data Science). 
+
+The first two excercies focused on GitHub setup and thus do not contain recorded responses.
+
+Exercises 5, 6, and 7 used the NYC motor vehicle collisions dataset from NYC Open Data. 
+
+The mid-term team project utilized the 311 Service Requests dataset from NYC Open Data. In this project, my teammate answered the first two questions (cleaning the data and describing the duration distribution), while I handled the last two: building models to predict a variable and exploring the data to answer the research question of interest—how to find a neighbor-friendly house in NYC.
+
+The final project used data I collected independently and aimed to answer two key research questions:
+
+Research Question 1: How accurately and effectively can a comprehensive set of predictors (demographic information, relationship specific predictors, and family of origin experiences) predict adult attachment security?
+
+Research Question 2: What are the key predictors of adult attachment security?
 
 ### Prompts for the nine assignments
 
@@ -104,7 +116,7 @@ This repository documents my responses to the assignments for the STAT 5255 clas
        precision, recall, F1-score, and AUC.
 
 
-1. (Mid-term team project) The NYC Open Data of 311 Service Requests contains
+1. Mid-term team project: The NYC Open Data of 311 Service Requests contains
    all requests from 2010 to present. We consider a subset of it with request
    time between 00:00:00 01/15/2023 and 24:00:00 01/21/2023. The subset is
    available in CSV format as `data/nyc311_011523-012123_by022023.csv`. Read the
@@ -126,3 +138,6 @@ This repository documents my responses to the assignments for the STAT 5255 clas
     1. Now you know the data quite well. Come up with a research question of
        interest that can be answered by the data, which could be analytics or
        visualizations. Perform the needed analyses and answer your question.
+1. Final Project: The topic will be of your choice. It should show the whole cycle of a real data science project. Consider projects at data science competition sites (e.g.,
+https://kaggle.com).
+
