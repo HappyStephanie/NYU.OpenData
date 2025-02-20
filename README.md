@@ -1,4 +1,4 @@
-# NYU.OpenData
+# STAT 5255 class (Introduction to Data Science)
 Author: Tong Shen
 
 ### Repository Overview
