@@ -1,4 +1,4 @@
-# STAT 5255 class (Introduction to Data Science)
+# STAT 5255 (Introduction to Data Science)
 Author: Tong Shen
 
 ### Repository Overview
