@@ -2,7 +2,7 @@
 Author: Tong Shen
 
 ### Repository Overview
-This repository documents my responses to the assignments for the STAT 5255 class (Introduction to Data Science). Among the nine main assignments, the first two focused on GitHub setup and thus do not contain recorded responses. The final assignment is the mid-term team project, in which my teammate answered the first two questions (cleaning and describing the data), while I answered the last two (exloring the data).
+This repository documents my responses to the assignments for the STAT 5255 class (Introduction to Data Science). Among the eight main assignments, the first two focused on GitHub setup and thus do not contain recorded responses. The final assignment is the mid-term team project, in which my teammate answered the first two questions (cleaning and describing the data), while I answered the last two (exloring the data).
 
 ### Prompts for the nine assignments
 
@@ -47,10 +47,6 @@ This repository documents my responses to the assignments for the STAT 5255 clas
    1000 times for each sample size and check the empirical probability that the
    confidence intervals cover the true value of $\pi$. Comment on
    the results.
-
-1. Find the first 10-digit prime number occurring in consecutive
-   digits of $e$. This was a
-   [Google recruiting ad](http://mathworld.wolfram.com/news/2004-10-13/google/)
 
 1. The NYC motor vehicle collisions data with documentation is available from
    [NYC Open
