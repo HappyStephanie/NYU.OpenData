@@ -16,7 +16,7 @@ Research Question 1: How accurately and effectively can a comprehensive set of p
 
 Research Question 2: What are the key predictors of adult attachment security?
 
-### Prompts for the nine assignments
+### Prompts 
 
 1. Pick up Git basics and set up an account at GitHub if you don't have
    one. Please practice the tips on Git in the notes. Make sure you have at
